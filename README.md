@@ -12,13 +12,19 @@ Place all your public functions in the Public directory. The file must be named 
 
 ## Arguments
 
+`-Destination`
+
+The location of the new module. Defaults to the current directory.
 
 `-Module <name>`
+
 The name of the new module. Defaults to the name of the destination directory.
 
 `-CompanyName <name>`
+
 The name of the company. Defaults to "Company Name"
 
 `-Author <name>`
+
 The name of the Author. Defaults to the company name
 
