@@ -1,6 +1,6 @@
 # jhtools.mkmodule
 
-Create a powershell script module
+Create a powershell script module. The idea for the module was taken from here: https://github.com/AtlassianPS/JiraPS
 
 ## Usage
 
